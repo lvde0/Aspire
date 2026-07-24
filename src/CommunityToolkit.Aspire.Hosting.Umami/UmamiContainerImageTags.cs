@@ -9,6 +9,6 @@ internal sealed class UmamiContainerImageTags
     public const string Registry = "docker.io";
     /// <summary>umamisoftware/umami</summary>
     public const string Image = "umamisoftware/umami";
-    /// <summary>3.0</summary>
-    public const string Tag = "3.0";
+    /// <summary>3.2</summary>
+    public const string Tag = "3.2";
 }
